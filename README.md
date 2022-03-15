@@ -1,2 +1,3 @@
 # Web-development
-Practices on the stack mean
+learning react
+[Guide](https://es.reactjs.org/tutorial/tutorial.html)
